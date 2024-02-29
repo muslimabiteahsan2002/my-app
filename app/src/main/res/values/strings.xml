@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Quiz App</string>
+    <string name="quiz_app">BASIC QUIZ APP</string>
+    <string name="play">PLAY QUIZ</string>
+    <string name="score">score :0</string>
+    <string name="correct">correct: 0</string>
+    <string name="correct_answer">Correct Answer: Uniform</string>
+    <string name="locator">Resource Locator</string>
+    <string name="time">Time Over</string>
+    <string name="wrong">wrong :0</string>
+    <string name="skip">skip :0</string>
+    <string name="total">total:1/10</string>
+    <string name="question">question</string>
+    <string name="option">option</string>
+    <string name="next_quiz_button">NEXT QUIZ</string>
+    <string name="quiz">Your Quiz Result</string>
+    <string name="play_again">Play Again</string>
+    <string name="share">Share Store</string>
+    <string name="rare">Rate App</string>
+    <string name="home">Home</string>
+    <string name="ok">OK</string>
+    <string name="time_quiz">time: 0</string>
+</resources>
